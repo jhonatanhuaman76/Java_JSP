@@ -1,5 +1,4 @@
 /.metadata/
-/.servers/
-/apache-tomcat-9.0.86/
+/.Servers/
 *.pdf
 *.war
