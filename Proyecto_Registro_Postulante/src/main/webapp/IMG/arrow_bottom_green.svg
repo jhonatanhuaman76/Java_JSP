@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="8px" viewBox="0 0 12 8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55 (78076) - https://sketchapp.com -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="10.59 0.59 6 5.17 1.41 0.59 0 2 6 8 12 2"></polygon>
+    </defs>
+    <g id="ICONOS" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="flecha-abajo-verde" transform="translate(-6.000000, -8.000000)">
+            <g id="Group">
+                <g id="ic/expand_more">
+                    <g id="ic_expand_more_24px" transform="translate(6.000000, 8.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Path" fill-rule="nonzero"></g>
+                        <g id="Palette/Brand/Dark" mask="url(#mask-2)" fill="#69BE28">
+                            <g transform="translate(-6.000000, -8.000000)" id="Background">
+                                <rect x="0" y="0" width="24" height="24"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

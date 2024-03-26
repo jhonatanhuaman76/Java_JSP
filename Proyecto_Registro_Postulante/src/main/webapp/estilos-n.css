@@ -1,0 +1,10 @@
+@charset "ISO-8859-1";
+/* estilos.css */
+.overlay {
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(to bottom,rgba(0,0,0,.18) 15%,#1f1f1f 100%);
+    position: absolute;
+    top: 0;
+    z-index: -1;
+}
