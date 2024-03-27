@@ -16,7 +16,7 @@
 <meta http-equiv="Cache-Control" content="no-cache, mustrevalidate">
 <meta http-equiv="Pragma" content="no-cache">
 <meta charset="ISO-8859-1">
-<title>Registro Postulantes</title>
+<title>Registro Postulantes Para la matricula</title>
 <script src="https://cdn.tailwindcss.com"></script>
 <link rel="stylesheet" href="estilos-n.css">
 </head>
@@ -40,7 +40,7 @@
 				<ul class="flex gap-x-4">
 					<li><a href="#">Mi Cibertec-Intranet</a></li>
 					<li><a href="#">Portal Laboral</a></li>
-					<li><a href="#">Área Virtual</a></li>
+					<li><a href="#">Ãrea Virtual</a></li>
 				</ul>
 			</nav>
 
@@ -75,7 +75,7 @@
 				</h1>
 				<p class="text-white font-semibold text-pretty mb-6">Con las
 					carreras de tecnologia de la informacion te convertiras en un
-					profesional capaz de brindar soluciones. !Sé parte de la comunidad
+					profesional capaz de brindar soluciones. !SÃ© parte de la comunidad
 					TEC!</p>
 				<button
 					class="rounded-full bg-[#009AA6] px-12 py-3 uppercase text-white font-semibold">Postula
