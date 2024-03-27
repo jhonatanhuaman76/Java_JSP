@@ -16,7 +16,7 @@
 <meta http-equiv="Cache-Control" content="no-cache, mustrevalidate">
 <meta http-equiv="Pragma" content="no-cache">
 <meta charset="ISO-8859-1">
-<title>Registro Postulantes Para la matricula</title>
+<title>Registro Postulantes Para Cibertec</title>
 <script src="https://cdn.tailwindcss.com"></script>
 <link rel="stylesheet" href="estilos-n.css">
 </head>
